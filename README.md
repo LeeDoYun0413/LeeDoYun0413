@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm gachon university student!
+nice to meet you!
 
 <!--
 **LeeDoYun0413/LeeDoYun0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
